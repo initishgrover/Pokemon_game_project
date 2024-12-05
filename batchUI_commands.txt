@@ -1,0 +1,4 @@
+L;characters-mat.csv;Occupation;AT
+S;Intelligence;D;Y
+C;[{"Health": 9, "Strength": 12},{"Health": 8, "Strength": 11},{"Health": 20, "Strength": 4},{"Health": 1, "Strength": 4}];Strength;1
+H;Agility
